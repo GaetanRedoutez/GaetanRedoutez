@@ -1,4 +1,4 @@
-# Bonjour, je suis Gaëtan Redoutez 👋
+# Bonjour, je m'appelle Gaëtan Redoutez 👋
 
 ## À propos de moi
 Après 5 ans d'expérience dans le domaine de l'automatisme, je suis en train de me reconvertir en développeur web. 
