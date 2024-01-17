@@ -9,10 +9,21 @@ Passionné par la programmation et le développement, je suis enthousiaste à l'
 - Email: redoutezgaetan@gmail.com
 
 ## Compétences
-- Langages de programmation en cours d'apprentissage : HTML/CSS _ JavaScript
-
+- Langages : 
+  - HTML/CSS
+  - JavaScript
+  - Node.JS
+  - PHP
+- Frameworks :
+  - React
+  - Express
+    
 ## Autres informations
-- Langues parlées : Français _ Anglais
-- Hobbies : Jeux vidéos _ Sports
+- Langues parlées :
+  - Français
+  - Anglais
+- Hobbies :
+  - Jeux vidéos
+  - Sports
 
 N'hésitez pas à me contacter si vous souhaitez discuter de collaborations ou de projets intéressants. Je suis ouvert aux opportunités de développement web et toujours prêt à apprendre de nouvelles choses !
